@@ -5,7 +5,7 @@ from datetime import datetime
 import threading
 import os
 
-server = "198.245.62.27"
+server = "127.0.0.1"
 server_port = 4209
 
 colorama.init()
