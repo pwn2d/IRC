@@ -4,8 +4,10 @@ from colorama import Fore
 from datetime import datetime
 import threading
 import os
+import sys
 
-server = "127.0.0.1"
+server = sys.argv[1]
+#server = "127.0.0.1"
 server_port = 4209
 
 colorama.init()
