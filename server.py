@@ -10,7 +10,8 @@ global server_port
 connections = []
 messages = []
 
-server = "127.0.0.1"
+server = sys.argv[2]
+#server = "127.0.0.1"
 server_port = 4209
 
 server_socket = socket.socket()
