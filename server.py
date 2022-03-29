@@ -10,8 +10,6 @@ global server_port
 connections = []
 messages = []
 
-#server ip 198.245.62.27
-
 server = "127.0.0.1"
 server_port = 4209
 
