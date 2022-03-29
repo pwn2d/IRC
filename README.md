@@ -5,5 +5,5 @@ the last one didn't work so i updated it, this one however doesn't have any encr
 
 usage :
 
-1.  start the server -> python [server.py] [number of connections]
+1.  start the server -> python [server.py] [number of connections] [server ip address]
 2.  connect to the server -> python [irc.py] [server ip address]
